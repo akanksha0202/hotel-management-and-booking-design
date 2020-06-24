@@ -1,2 +1,2 @@
-# hotel-management-booking-design
+# hotel-management-and-booking-design
 Catalogue for hotel booking
